@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seynath Thenura</h1>
-<h3 align="center">A passionate DevOps & Software Engineering</h3>
+<h3 align="center">A passionate AI/ML, DevOps & Software Engineering</h3>
 
-- 🔭 I’m currently working on [Ecommerce-all Project](https://github.com/seynath/Ecommerce-all)
+- 🔭 I’m currently working on Adentiq.ai
 
-- 🌱 I’m currently learning **DevSecOps Tools.**
+- 🌱 I’m currently learning on **AI/ML world.**
 
 - 📫 How to reach me **ugcseynaththenura@gmail.com**
 
